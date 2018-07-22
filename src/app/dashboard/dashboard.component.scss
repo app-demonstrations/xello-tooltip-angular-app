@@ -1,0 +1,15 @@
+$background-color: #f9f9f9;
+
+.button-container {
+    padding: 5rem 10rem;
+    border-radius: 1rem;
+    background-color: $background-color;
+    position: absolute;
+    top: calc(50vh - 95px);
+    left: calc(50vw - 250px);
+}
+
+.btn {
+    padding: 0.25rem 1rem;
+    border-radius: 0.5rem;
+}
